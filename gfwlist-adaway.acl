@@ -1,7 +1,10 @@
 #**********************************************************************
-# 10.14
+# 10.16
 # 2017年10月16日13:37:48
 # 
+# 来源ACL4SSR的acl规则改编，致谢!!  https://github.com/ACL4SSR/ACL4SSR
+# 在ACL4SSR的基础上增加了部分ADaway Hosts源
+#
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
 #
 # 参照vokins的hosts规则改编，致谢!! https://github.com/vokins/yhosts
